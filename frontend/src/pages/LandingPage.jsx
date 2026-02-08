@@ -38,7 +38,7 @@ const LandingPage = () => {
               <LayoutTemplate className={landingPageStyles.logoIconInner} />
             </div>
             <span className={landingPageStyles.logoText}>
-              ResumeXpert
+              ResumeEXpert
             </span>
           </div>
 
@@ -314,7 +314,8 @@ const LandingPage = () => {
           <p className={landingPageStyles.footerText}>
             Crafted with <span className={landingPageStyles.footerHeart}>❤️</span> by{' '}
             <a href="https://hexagondigitalservices.com" target="_blank" className={landingPageStyles.footerLink}>
-              Hexagon Digital Services
+              Genaura Digital Services © 2026 ResumeEXpert. All rights reserved.
+              Developed by Shubham Prasad
             </a>
           </p>
         </div>
